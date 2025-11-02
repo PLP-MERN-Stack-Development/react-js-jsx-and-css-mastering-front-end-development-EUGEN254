@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+:root.dark {
+  color-scheme: dark;
+}
