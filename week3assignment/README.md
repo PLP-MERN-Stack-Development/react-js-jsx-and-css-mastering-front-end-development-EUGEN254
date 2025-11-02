@@ -45,19 +45,6 @@ src/
 ```bash
 npm install
 npm run dev
-🌍 Live Demo
-🔗 https://your-app-name.vercel.app/
 
 
-📸 Screenshots
 
-
-🏠 Home Page
-
-✅ Task Manager
-
-🌐 API Data Page
-
-🌗 Dark Mode
-
-👨‍💻 Developer
